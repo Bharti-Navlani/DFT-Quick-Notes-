@@ -56,3 +56,8 @@ How DOES IT TAKES CARE OF POWER OF CORE LOGIC WHILE TARGET OF EXTEST ?
 
 clock will still toggle to internal core but internal logic be just shifting Zeros 
 so toggling power is reduced 
+
+Wrapper Chain Length can be mode in case of SHARED WRAPPER 
+
+<img width="328" height="196" alt="wrapper_2" src="https://github.com/user-attachments/assets/d05b0e8c-e514-4d9f-a3c3-7b71b1cfe2db" />
+
