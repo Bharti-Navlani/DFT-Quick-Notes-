@@ -40,6 +40,5 @@
 <img width="377" height="236" alt="Screenshot 2026-03-15 101246" src="https://github.com/user-attachments/assets/b003f9de-5bf3-4c14-9459-8bbc8c146489" />
 
 
-▶️[FIX_ME] to add diagram for above<br>
-▶️[FIX_ME] to add pros & cons for above from timing point of view & from ATPG point of view (there is a trade off)<br>
+<img width="1619" height="589" alt="wrapper" src="https://github.com/user-attachments/assets/6a27d02f-4502-42ed-8457-32124a9d2f0c" />
 
