@@ -36,6 +36,10 @@
   Ports registered - then flop is already present then "SHARED"<br>
   Ports not registered - then either add "DEDICATE WRAPPER" or after some combo logic use the flop functional present as wrapper then it is "SHARED"<br>
 
+
+<img width="377" height="236" alt="Screenshot 2026-03-15 101246" src="https://github.com/user-attachments/assets/b003f9de-5bf3-4c14-9459-8bbc8c146489" />
+
+
 ▶️[FIX_ME] to add diagram for above<br>
 ▶️[FIX_ME] to add pros & cons for above from timing point of view & from ATPG point of view (there is a trade off)<br>
 
