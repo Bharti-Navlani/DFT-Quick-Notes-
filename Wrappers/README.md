@@ -42,3 +42,17 @@
 
 <img width="1619" height="589" alt="wrapper" src="https://github.com/user-attachments/assets/6a27d02f-4502-42ed-8457-32124a9d2f0c" />
 
+Intest Mode :
+Input wrappers are in shift mode only 
+Core flops will toggle in shift and capture
+Output wrapper also will also be in shift and capture 
+
+In case of tessent edt
+wrp edt -> wrapper flops are targetted 
+int edt -> wrapper flops + internal flops are targeted 
+same edt clk is used for both intest & extest 
+
+How DOES IT TAKES CARE OF POWER OF CORE LOGIC WHILE TARGET OF EXTEST ?
+
+clock will still toggle to internal core but internal logic be just shifting Zeros 
+so toggling power is reduced 
